@@ -1,0 +1,12 @@
+{
+  "name": "com.batch8.main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "draw.js",
+  "scripts": {
+    "start": "node draw.js",
+    "test": "running"
+  },
+  "author": "Faiz",
+  "license": "ISC"
+}
